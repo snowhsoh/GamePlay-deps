@@ -59,7 +59,7 @@ endif(NOT WIN32 AND BUILD_EXTRA_LIBS)
 add_subdirectory(ogg-1.3.2)
 add_subdirectory(vorbis-1.3.4)
 
-add_subdirectory(bullet-2.82-r2704)
+add_subdirectory(bullet-2.85)
 add_subdirectory(base64-1.0.0)
 
 set(BUILD_TARGETS
